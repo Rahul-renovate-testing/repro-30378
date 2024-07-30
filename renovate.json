@@ -2,7 +2,7 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "packageRules": [{
     "matchPackageNames": ["node"],
-    "allowedVersions": ["<18.20.4"]
+    "allowedVersions": ["<=18.20.4"]
   }],
   "dependencyDashboard": true
 }
