@@ -5,6 +5,6 @@
       "matchPackageNames": ["node"],
       "allowedVersions": ["<18.20.4"]
     }
-  ]
+  ],
   "dependencyDashboard": true
 }
